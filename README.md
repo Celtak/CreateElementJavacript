@@ -25,7 +25,7 @@ The function **create()** uses **createText()**.
 - class
 - title
 
-### Return
+#### Return
 
 A nodeElement
 
@@ -35,7 +35,7 @@ A nodeElement
 
 Text = text
 
-### Return
+#### Return
 
 A nodeText
 
