@@ -25,11 +25,19 @@ The function **create()** uses **createText()**.
 - class
 - title
 
+### Return
+
+A nodeElement
+
 ### createText(Text)
 
 #### Parameters
 
 Text = text
+
+### Return
+
+A nodeText
 
 ## Example
 
