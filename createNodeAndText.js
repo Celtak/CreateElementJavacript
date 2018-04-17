@@ -67,6 +67,11 @@
             if (typeof attributesOrText['title'] !== 'undefined') {
                 element.title = attributesOrText['title'];
             }
+            
+            /* src */
+            if (typeof attributesOrText['src'] !== 'undefined') {
+                element.src = attributesOrText['src'];
+            }
 
             /* TEXTE */
             if (typeof attributesOrText['text'] !== 'undefined') {
